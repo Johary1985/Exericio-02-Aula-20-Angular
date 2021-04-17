@@ -7,15 +7,18 @@ Exercício prático angular onde aprendemos a consumir uma API e mostramos os re
 * getData para consumir o URL e retornar os dados
 * Diretiva NgFor para listar dados na tela
 * E mais...
-* 
+
 API usada:
 https://jsonplaceholder.typicode.com/users
 
 Style:
+
 `Bootstrap 5`
+
 https://getbootstrap.com/
 
 Iniciando ou projeto:
+
 `npm install`
 
 Enjoy!
