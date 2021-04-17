@@ -1,27 +1,21 @@
-# Exercicio02
+Exericio-02-Aula-20-Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+Exercício prático angular onde aprendemos a consumir uma API e mostramos os resultados em um formulário, aplicando o que aprendemos em sala de aula, como por exemplo:
 
-## Development server
+* Importações HttpClient
+* Uso da função "construtor"
+* getData para consumir o URL e retornar os dados
+* Diretiva NgFor para listar dados na tela
+* E mais...
+* 
+API usada:
+https://jsonplaceholder.typicode.com/users
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Style:
+`Bootstrap 5`
+https://getbootstrap.com/
 
-## Code scaffolding
+Iniciando ou projeto:
+`npm install`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Enjoy!
